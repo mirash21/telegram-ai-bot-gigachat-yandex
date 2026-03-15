@@ -1,0 +1,14 @@
+# Telegram Bot Framework
+python-telegram-bot==22.6
+
+# GigaChat API Client
+gigachat>=0.2.0
+
+# Yandex Cloud SDK
+yandexcloud>=0.373.0
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# HTTP Requests
+requests>=2.31.0
